@@ -1,0 +1,9 @@
+# Generated executable and unit-test binary; rebuild for the target Linux VM.
+inline-secure
+packet-test
+security-test
+test-results/
+__pycache__/
+*.dSYM/
+# Keep generated private keys and local certificates out of version control.
+certs/
